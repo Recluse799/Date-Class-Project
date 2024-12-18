@@ -68,5 +68,4 @@ private:
     void initializeNames(); // Initializes the MyString array of names
 
 };
-
 #endif 
